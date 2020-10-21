@@ -1,0 +1,8 @@
+C:\Users\clash\source\repos\DiscordRPC\bin\Debug\DiscordRPC.exe.config
+C:\Users\clash\source\repos\DiscordRPC\bin\Debug\DiscordRPC.exe
+C:\Users\clash\source\repos\DiscordRPC\bin\Debug\DiscordRPC.pdb
+C:\Users\clash\source\repos\DiscordRPC\obj\Debug\DiscordRPC.Properties.Resources.resources
+C:\Users\clash\source\repos\DiscordRPC\obj\Debug\DiscordRPC.csproj.GenerateResource.cache
+C:\Users\clash\source\repos\DiscordRPC\obj\Debug\DiscordRPC.csproj.CoreCompileInputs.cache
+C:\Users\clash\source\repos\DiscordRPC\obj\Debug\DiscordRPC.exe
+C:\Users\clash\source\repos\DiscordRPC\obj\Debug\DiscordRPC.pdb
